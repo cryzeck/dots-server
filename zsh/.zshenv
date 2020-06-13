@@ -22,6 +22,7 @@ export TERMINAL="xst"
 export READER="zathura"
 export BROWSER="linkhandler"
 export TRUEBROWSER="brave"
+export TERM="xterm-color"
 
 export GOPATH="$HOME/go"
 export FZF_CTRL_T_COMMAND='ag --hidden --ignore .git --ignore .cache -l -g ""'

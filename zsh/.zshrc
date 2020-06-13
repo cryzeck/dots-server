@@ -52,13 +52,9 @@ if [[ -f "/usr/share/fzf/key-bindings.zsh" ]]; then
 fi
 
 # Some aliases
-alias sdn="sudo shutdown now"
-alias p="sudo pacman"
 alias SS="sudo systemctl"
 alias v="nvim"
 alias sv="sudo nvim"
-alias r="ranger"
-alias sr="sudo ranger"
 alias ka="killall"
 alias g="git"
 alias mkd="mkdir -pv"
@@ -68,19 +64,6 @@ alias vim="nvim"
 # Adding color
 alias ls='ls -hN --color=auto --group-directories-first'
 alias grep="grep --color=auto"
-
-# Internet
-alias yt="youtube-dl --add-metadata -ic" # Download video link
-alias yta="yt -x -f bestaudio/best" # Download only audio
-
-# Mud
-alias vk="mosh flix tmux a"
-alias vksay='mosh flix "tail -f /home/drakenot/viking/tells.log"'
-
-# Flix
-alias mflix="sshfs flix:/mnt/data /mnt/data -o reconnect -o dir_cache=yes -o compression=no"
-alias mhome="sshfs seed@drakenot.com:/mnt/data /mnt/home -o reconnect -o dir_cache=yes -o compression=no"
-alias uflix="ssh -t flix \"updatedb -l 0 -o /mnt/data/media/.flix.db -U /mnt/data/media\" >/dev/null 2>&1;cp /mnt/data/media/.flix.db ~/.flix.db"
 
 vg() {
   local file
