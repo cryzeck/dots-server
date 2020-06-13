@@ -1,0 +1,26 @@
+TAG,NAME,DESCRIPTION
+P,base-devel,group package with sudo and compilation software
+P,git,version control system
+P,zsh,the better shell
+P,docker,lightweight containers
+P,cryptsetup,userspace setup tool for dm-crypt
+P,cmatrix,curses scrolling matrix
+P,bzip2,data compression
+P,man,manual pages
+P,tldr,shorter manual pages
+P,wireguard-tools,wireguard utils
+P,wireguard-arch,wireguard kernel module
+P,fzf,fuzzy finder tool
+P,gnupg,open implementation of PGP
+P,neovim,best text editor 
+P,python-pynvim,python client for neovim
+P,lftp,Sophisticated command line based FTP client
+P,neofetch,config terminal info
+P,sshfs,FUSE client based on SSH
+P,stow,linking utility for dotfiles
+P,unrar,extract rars
+P,unzip,unzip zips
+P,wget,downloads sites and files
+A,antibody,zsh plugin manager
+A,htop-vim-git,system usage monitor + vim keybindings
+A,rtv,reddit cli client

@@ -1,0 +1,642 @@
+[2020.06.07 21:28:32] Launched version: 2001007, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2020.06.07 21:28:32] Executable dir: /usr/bin/, name: telegram-desktop
+[2020.06.07 21:28:32] Initial working dir: /home/jastrup/
+[2020.06.07 21:28:32] Working dir: /home/jastrup/.local/share/TelegramDesktop/
+[2020.06.07 21:28:32] Command line: telegram-desktop
+[2020.06.07 21:28:32] Executable path before check: /usr/bin/telegram-desktop
+[2020.06.07 21:28:32] Logs started
+[2020.06.07 21:28:32] Launcher filename: telegramdesktop.desktop
+[2020.06.07 21:28:32] Connecting local socket to /run/user/1000/1b4280183559d25c8b7acd3e09aa437a-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2020.06.07 21:28:32] This is the only instance of Telegram, starting server and app...
+[2020.06.07 21:28:32] Moved logging from '/home/jastrup/.local/share/TelegramDesktop/log_start0.txt' to '/home/jastrup/.local/share/TelegramDesktop/log.txt'!
+[2020.06.07 21:28:32] Primary screen DPI: 120
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2020.06.07 21:28:32] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2020.06.07 21:28:32] App Info: reading settings...
+[2020.06.07 21:28:32] App Info: reading encrypted settings...
+[2020.06.07 21:28:32] Lang Info: Loaded cached, keys: 2680
+[2020.06.07 21:28:32] OpenAL Logging Level: (not set)
+[2020.06.07 21:28:32] Audio Playback Devices: Built-in Audio Analog Stereo
+[2020.06.07 21:28:32] Audio Playback Default Device: Built-in Audio Analog Stereo
+[2020.06.07 21:28:32] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2020.06.07 21:28:32] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2020.06.07 21:28:33] System tray available: [TRUE]
+[2020.06.07 21:28:33] Not using D-Bus global menu.
+[2020.06.07 21:28:33] Not using Unity launcher counter.
+[2020.06.07 21:28:33] App Info: reading map...
+[2020.06.07 21:28:33] App Info: reading encrypted map...
+[2020.06.07 21:28:33] App Info: could not read encrypted user settings...
+[2020.06.07 21:28:33] App Info: writing encrypted user settings...
+[2020.06.07 21:28:33] App Info: reading encrypted mtp data...
+[2020.06.07 21:28:33] MTP Info: read keys, current: 3, to destroy: 0
+[2020.06.07 21:28:33] Map read time: 2
+[2020.06.07 21:28:33] TCP Error: network - Network unreachable
+[2020.06.07 21:28:33] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:33] Using Qt tray icon.
+[2020.06.07 21:28:37] MTP Info: destroying stale keys, count: 3
+[2020.06.07 21:28:37] TCP Error: network - Network unreachable
+[2020.06.07 21:28:37] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:37] TCP Error: network - Network unreachable
+[2020.06.07 21:28:37] TCP Error: network - Network unreachable
+[2020.06.07 21:28:37] TCP Error: network - Network unreachable
+[2020.06.07 21:28:37] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:37] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:37] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:37] TCP Error: network - Network unreachable
+[2020.06.07 21:28:37] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:37] TCP Error: network - Network unreachable
+[2020.06.07 21:28:37] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:38] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
+[2020.06.07 21:28:38] MTP Info: -404 error received in destroyer 2560002, assuming key was destroyed.
+[2020.06.07 21:28:38] MTP Info: checkIfKeyWasDestroyed on destroying key 2560002, assuming it is destroyed.
+[2020.06.07 21:28:38] TCP Error: error packet received, endpoint: '149.154.167.92:443', protocolDcId: 4, code = -404
+[2020.06.07 21:28:38] MTP Info: -404 error received in destroyer 2560004, assuming key was destroyed.
+[2020.06.07 21:28:38] MTP Info: checkIfKeyWasDestroyed on destroying key 2560004, assuming it is destroyed.
+[2020.06.07 21:28:38] TCP Error: network - Network unreachable
+[2020.06.07 21:28:38] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:39] TCP Error: error packet received, endpoint: '91.108.56.118:443', protocolDcId: 5, code = -404
+[2020.06.07 21:28:39] MTP Info: -404 error received in destroyer 2560005, assuming key was destroyed.
+[2020.06.07 21:28:39] MTP Info: checkIfKeyWasDestroyed on destroying key 2560005, assuming it is destroyed.
+[2020.06.07 21:28:39] MTP Info: all keys scheduled for destroy are destroyed.
+[2020.06.07 21:28:58] Export Info: Destroy top bar by controller removal.
+[2020.06.07 21:28:58] Message Info: bad message notification received (error_code 33) for msg_id = 6835721073732926884, seq_no = 38
+[2020.06.07 21:28:58] Message Info: bad message notification received, msgId 6835721073732926884, error_code 33
+[2020.06.07 21:28:58] TCP Error: network - Network unreachable
+[2020.06.07 21:28:58] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:58] TCP Error: network - Network unreachable
+[2020.06.07 21:28:58] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:58] TCP Error: network - Network unreachable
+[2020.06.07 21:28:58] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:28:58] Update Info: Starting loading '/home/jastrup/.local/share/TelegramDesktop/tdata/dictionaries/en_US/en_US' from 0 offset.
+[2020.06.07 21:28:58] Update Info: Loading using MTP from '4'.
+[2020.06.07 21:28:58] TCP Error: network - Network unreachable
+[2020.06.07 21:28:58] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:29:00] App Info: writing encrypted user settings...
+[2020.06.07 21:29:01] TCP Error: network - Network unreachable
+[2020.06.07 21:29:01] HTTP Error: network error 99 - Network unreachable
+[2020.06.07 21:29:15] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2020.06.07 21:29:15] API Warning: emoji 🇩🇬 is not supported, word: diego garcia.
+[2020.06.07 21:29:15] API Warning: emoji 🇹🇦 is not supported, word: ta.
+[2020.06.07 21:29:15] API Warning: emoji 🇦🇨 is not supported, word: ascension island.
+[2020.06.07 21:29:15] API Warning: emoji 🇦🇨 is not supported, word: ac.
+[2020.06.07 21:29:15] API Warning: emoji 🇦🇨 is not supported, word: flag_ac.
+[2020.06.07 21:29:15] API Warning: emoji 🇹🇦 is not supported, word: tristan da cunha.
+[2020.06.07 21:29:15] API Warning: emoji 🇩🇬 is not supported, word: british indian ocean territory.
+[2020.06.07 21:29:15] API Warning: emoji 🇹🇦 is not supported, word: flag_ta.
+[2020.06.07 21:29:15] API Warning: emoji 🇲🇫 is not supported, word: st. martin.
+[2020.06.07 21:29:15] API Warning: emoji 🇪🇦 is not supported, word: ceuta & melilla.
+[2020.06.08 05:12:28] TCP Error: network - Network unreachable
+[2020.06.08 05:12:28] TCP Error: network - Network unreachable
+[2020.06.08 05:12:28] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.08 05:12:28] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:28] TCP Error: network - Network unreachable
+[2020.06.08 05:12:28] TCP Error: network - Network unreachable
+[2020.06.08 05:12:28] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:28] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:28] TCP Error: network - Network unreachable
+[2020.06.08 05:12:28] TCP Error: network - Network unreachable
+[2020.06.08 05:12:28] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:28] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:28] TCP Error: network - Network unreachable
+[2020.06.08 05:12:28] TCP Error: network - Network unreachable
+[2020.06.08 05:12:28] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:28] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:29] TCP Error: network - Network unreachable
+[2020.06.08 05:12:29] TCP Error: network - Network unreachable
+[2020.06.08 05:12:29] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:29] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:31] TCP Error: network - Network unreachable
+[2020.06.08 05:12:31] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:31] Message Info: bad message notification received (error_code 16) for msg_id = 6835722648829204808, seq_no = 122
+[2020.06.08 05:12:31] Message Info: bad message notification received (error_code 16) for msg_id = 6835722649099287324, seq_no = 122
+[2020.06.08 05:12:31] Message Info: bad message notification received (error_code 16) for msg_id = 6835722649366605380, seq_no = 122
+[2020.06.08 05:12:31] Message Info: bad message notification received (error_code 16) for msg_id = 6835722649631679088, seq_no = 122
+[2020.06.08 05:12:32] Message Info: bad message notification received (error_code 16) for msg_id = 6835722649900364328, seq_no = 122
+[2020.06.08 05:12:32] TCP Error: network - Network unreachable
+[2020.06.08 05:12:32] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:32] TCP Error: network - Network unreachable
+[2020.06.08 05:12:32] TCP Error: network - Network unreachable
+[2020.06.08 05:12:32] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:32] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:12:33] TCP Error: network - Network unreachable
+[2020.06.08 05:12:33] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:13:16] Could not send ping for some seconds, restarting...
+[2020.06.08 05:13:16] TCP Error: network - Network unreachable
+[2020.06.08 05:13:16] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 05:19:24] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.08 05:19:27] Audio Info: Closing audio playback device.
+[2020.06.08 05:19:43] WARNING: Compositing is disabled for screen index 0 (for position 1116,986)
+[2020.06.08 05:22:08] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.08 05:22:10] Audio Info: Closing audio playback device.
+[2020.06.08 21:28:44] TCP Error: network - Network unreachable
+[2020.06.08 21:28:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 21:28:44] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2020.06.08 21:28:44] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2020.06.08 21:28:44] TCP Error: network - Network unreachable
+[2020.06.08 21:28:44] TCP Error: network - Network unreachable
+[2020.06.08 21:28:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.08 21:28:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 04:03:30] TCP Error: network - Network unreachable
+[2020.06.09 04:03:30] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:52] TCP Error: network - Network unreachable
+[2020.06.09 05:14:52] TCP Error: network - Network unreachable
+[2020.06.09 05:14:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.09 05:14:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:52] TCP Error: network - Network unreachable
+[2020.06.09 05:14:52] TCP Error: network - Network unreachable
+[2020.06.09 05:14:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:52] TCP Error: network - Network unreachable
+[2020.06.09 05:14:52] TCP Error: network - Network unreachable
+[2020.06.09 05:14:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:52] TCP Error: network - Network unreachable
+[2020.06.09 05:14:52] TCP Error: network - Network unreachable
+[2020.06.09 05:14:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:53] TCP Error: network - Network unreachable
+[2020.06.09 05:14:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 05:14:54] TCP Error: network - Network unreachable
+[2020.06.09 05:14:54] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 07:03:16] TCP Error: network - Network unreachable
+[2020.06.09 07:03:16] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 07:03:16] Message Info: bad message notification received (error_code 16) for msg_id = 6836237669962394476, seq_no = 1720
+[2020.06.09 07:03:16] Message Info: bad message notification received (error_code 16) for msg_id = 6836237670230508008, seq_no = 1720
+[2020.06.09 07:03:16] Message Info: bad message notification received (error_code 16) for msg_id = 6836237670497037404, seq_no = 1720
+[2020.06.09 07:03:16] Message Info: bad message notification received (error_code 16) for msg_id = 6836237670765742508, seq_no = 1720
+[2020.06.09 07:03:16] Message Info: bad message notification received (error_code 16) for msg_id = 6836237671035957132, seq_no = 1720
+[2020.06.09 07:03:17] Message Info: bad message notification received (error_code 16) for msg_id = 6836237671307497172, seq_no = 1720
+[2020.06.09 07:04:01] Could not send ping for some seconds, restarting...
+[2020.06.09 07:04:01] TCP Error: network - Network unreachable
+[2020.06.09 07:04:01] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 21:29:24] TCP Error: network - Network unreachable
+[2020.06.09 21:29:24] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 21:29:24] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2020.06.09 21:29:24] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2020.06.09 21:29:24] TCP Error: network - Network unreachable
+[2020.06.09 21:29:24] TCP Error: network - Network unreachable
+[2020.06.09 21:29:24] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 21:29:24] HTTP Error: network error 99 - Network unreachable
+[2020.06.09 22:45:42] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.09 22:45:44] Audio Info: Closing audio playback device.
+[2020.06.09 22:45:47] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.09 22:45:49] Audio Info: Closing audio playback device.
+[2020.06.09 22:45:53] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.09 22:45:55] Audio Info: Closing audio playback device.
+[2020.06.10 04:27:16] TCP Error: network - Network unreachable
+[2020.06.10 04:27:16] HTTP Error: network error 99 - Network unreachable
+[2020.06.10 12:54:51] TCP Error: network - Network unreachable
+[2020.06.10 12:54:51] TCP Error: network - Network unreachable
+[2020.06.10 12:54:51] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:52] TCP Error: network - Network unreachable
+[2020.06.10 12:54:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:52] TCP Error: network - Network unreachable
+[2020.06.10 12:54:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:52] TCP Error: network - Network unreachable
+[2020.06.10 12:54:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:52] TCP Error: network - Network unreachable
+[2020.06.10 12:54:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:52] TCP Error: network - Network unreachable
+[2020.06.10 12:54:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:52] TCP Error: network - Network unreachable
+[2020.06.10 12:54:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:52] TCP Error: network - Network unreachable
+[2020.06.10 12:54:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:52] TCP Error: network - Network unreachable
+[2020.06.10 12:54:52] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:53] TCP Error: network - Network unreachable
+[2020.06.10 12:54:53] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:53] TCP Error: network - Network unreachable
+[2020.06.10 12:54:53] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.10 12:54:55] TCP Error: network - Network unreachable
+[2020.06.10 12:54:55] TCP Error: network - Network unreachable
+[2020.06.10 12:54:55] HTTP Error: network error 99 - Network unreachable
+[2020.06.10 12:54:55] HTTP Error: network error 99 - Network unreachable
+[2020.06.10 12:54:59] TCP Error: network - Network unreachable
+[2020.06.10 12:54:59] HTTP Error: network error 99 - Network unreachable
+[2020.06.10 12:54:59] Message Info: bad message notification received (error_code 16) for msg_id = 6836659243672295896, seq_no = 2356
+[2020.06.10 12:54:59] Message Info: bad message notification received (error_code 16) for msg_id = 6836659243942299852, seq_no = 2356
+[2020.06.10 12:54:59] Message Info: bad message notification received (error_code 16) for msg_id = 6836659244209516032, seq_no = 2356
+[2020.06.10 12:55:44] Could not send ping for some seconds, restarting...
+[2020.06.10 12:55:44] TCP Error: network - Network unreachable
+[2020.06.10 12:55:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.10 18:49:32] TCP Error: network - Network unreachable
+[2020.06.10 18:49:32] HTTP Error: network error 99 - Network unreachable
+[2020.06.10 18:49:32] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.10 18:49:32] TCP Error: error packet received, endpoint: '149.154.165.120:443', protocolDcId: -4, code = -404
+[2020.06.10 18:49:32] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2020.06.10 18:49:32] TCP Error: network - Network unreachable
+[2020.06.10 18:49:32] HTTP Error: network error 99 - Network unreachable
+[2020.06.10 18:49:34] Audio Info: Closing audio playback device.
+[2020.06.11 05:10:44] TCP Error: network - Network unreachable
+[2020.06.11 05:10:44] TCP Error: network - Network unreachable
+[2020.06.11 05:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:44] TCP Error: network - Network unreachable
+[2020.06.11 05:10:44] TCP Error: network - Network unreachable
+[2020.06.11 05:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:44] TCP Error: network - Network unreachable
+[2020.06.11 05:10:44] TCP Error: network - Network unreachable
+[2020.06.11 05:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:44] TCP Error: network - Network unreachable
+[2020.06.11 05:10:44] TCP Error: network - Network unreachable
+[2020.06.11 05:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:45] TCP Error: network - Network unreachable
+[2020.06.11 05:10:45] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:45] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2020.06.11 05:10:45] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2020.06.11 05:10:45] TCP Error: network - Network unreachable
+[2020.06.11 05:10:45] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:46] Message Info: bad message notification received (error_code 16) for msg_id = 6836824035103804512, seq_no = 4
+[2020.06.11 05:10:47] TCP Error: network - Network unreachable
+[2020.06.11 05:10:47] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:56] TCP Error: network - Network unreachable
+[2020.06.11 05:10:56] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:10:56] Message Info: bad message notification received (error_code 16) for msg_id = 6836824080242025704, seq_no = 8
+[2020.06.11 05:11:07] TCP Error: network - Network unreachable
+[2020.06.11 05:11:07] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:11:07] Message Info: bad message notification received (error_code 16) for msg_id = 6836824127487262044, seq_no = 12
+[2020.06.11 05:11:18] TCP Error: network - Network unreachable
+[2020.06.11 05:11:18] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:11:18] Message Info: bad message notification received (error_code 16) for msg_id = 6836824174729923208, seq_no = 16
+[2020.06.11 05:11:29] TCP Error: network - Network unreachable
+[2020.06.11 05:11:29] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:11:29] Message Info: bad message notification received (error_code 16) for msg_id = 6836824221998289288, seq_no = 20
+[2020.06.11 05:11:40] TCP Error: network - Network unreachable
+[2020.06.11 05:11:40] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:11:40] Message Info: bad message notification received (error_code 16) for msg_id = 6836824269248901028, seq_no = 24
+[2020.06.11 05:11:51] TCP Error: network - Network unreachable
+[2020.06.11 05:11:51] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:11:51] Message Info: bad message notification received (error_code 16) for msg_id = 6836824316469774340, seq_no = 28
+[2020.06.11 05:12:02] TCP Error: network - Network unreachable
+[2020.06.11 05:12:02] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:12:02] Message Info: bad message notification received (error_code 16) for msg_id = 6836824363706955480, seq_no = 32
+[2020.06.11 05:12:13] TCP Error: network - Network unreachable
+[2020.06.11 05:12:13] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:12:13] Message Info: bad message notification received (error_code 16) for msg_id = 6836824410947337964, seq_no = 36
+[2020.06.11 05:12:24] TCP Error: network - Network unreachable
+[2020.06.11 05:12:24] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:12:24] Message Info: bad message notification received (error_code 16) for msg_id = 6836824458190865412, seq_no = 40
+[2020.06.11 05:12:35] TCP Error: network - Network unreachable
+[2020.06.11 05:12:35] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:12:35] Message Info: bad message notification received (error_code 16) for msg_id = 6836824505440873396, seq_no = 44
+[2020.06.11 05:12:46] TCP Error: network - Network unreachable
+[2020.06.11 05:12:46] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:12:46] Message Info: bad message notification received (error_code 16) for msg_id = 6836824552681098020, seq_no = 48
+[2020.06.11 05:12:57] TCP Error: network - Network unreachable
+[2020.06.11 05:12:57] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:12:57] Message Info: bad message notification received (error_code 16) for msg_id = 6836824599922381176, seq_no = 52
+[2020.06.11 05:13:08] TCP Error: network - Network unreachable
+[2020.06.11 05:13:08] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:13:08] Message Info: bad message notification received (error_code 16) for msg_id = 6836824647173605244, seq_no = 56
+[2020.06.11 05:13:19] TCP Error: network - Network unreachable
+[2020.06.11 05:13:19] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:13:19] Message Info: bad message notification received (error_code 16) for msg_id = 6836824694411160764, seq_no = 60
+[2020.06.11 05:13:30] TCP Error: network - Network unreachable
+[2020.06.11 05:13:30] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:13:30] Message Info: bad message notification received (error_code 16) for msg_id = 6836824741657380700, seq_no = 64
+[2020.06.11 05:13:41] TCP Error: network - Network unreachable
+[2020.06.11 05:13:41] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:13:41] Message Info: bad message notification received (error_code 16) for msg_id = 6836824788903831236, seq_no = 68
+[2020.06.11 05:13:52] TCP Error: network - Network unreachable
+[2020.06.11 05:13:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:13:52] Message Info: bad message notification received (error_code 16) for msg_id = 6836824836152718520, seq_no = 72
+[2020.06.11 05:14:03] TCP Error: network - Network unreachable
+[2020.06.11 05:14:03] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:14:03] Message Info: bad message notification received (error_code 16) for msg_id = 6836824883398693508, seq_no = 76
+[2020.06.11 05:14:14] TCP Error: network - Network unreachable
+[2020.06.11 05:14:14] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:14:14] Message Info: bad message notification received (error_code 16) for msg_id = 6836824930632270092, seq_no = 80
+[2020.06.11 05:14:25] TCP Error: network - Network unreachable
+[2020.06.11 05:14:25] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:14:25] Message Info: bad message notification received (error_code 16) for msg_id = 6836824977896416992, seq_no = 84
+[2020.06.11 05:14:36] TCP Error: network - Network unreachable
+[2020.06.11 05:14:36] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:14:36] Message Info: bad message notification received (error_code 16) for msg_id = 6836825025121092104, seq_no = 88
+[2020.06.11 05:14:47] TCP Error: network - Network unreachable
+[2020.06.11 05:14:47] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:14:47] Message Info: bad message notification received (error_code 16) for msg_id = 6836825072379219584, seq_no = 92
+[2020.06.11 05:14:58] TCP Error: network - Network unreachable
+[2020.06.11 05:14:58] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:14:58] Message Info: bad message notification received (error_code 16) for msg_id = 6836825119607564208, seq_no = 96
+[2020.06.11 05:15:09] TCP Error: network - Network unreachable
+[2020.06.11 05:15:09] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:15:09] Message Info: bad message notification received (error_code 16) for msg_id = 6836825166860120556, seq_no = 100
+[2020.06.11 05:15:20] TCP Error: network - Network unreachable
+[2020.06.11 05:15:20] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:15:20] Message Info: bad message notification received (error_code 16) for msg_id = 6836825214104694820, seq_no = 104
+[2020.06.11 05:15:31] TCP Error: network - Network unreachable
+[2020.06.11 05:15:31] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:15:31] Message Info: bad message notification received (error_code 16) for msg_id = 6836825261338725304, seq_no = 108
+[2020.06.11 05:15:42] TCP Error: network - Network unreachable
+[2020.06.11 05:15:42] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:15:42] Message Info: bad message notification received (error_code 16) for msg_id = 6836825308589730240, seq_no = 112
+[2020.06.11 05:15:53] TCP Error: network - Network unreachable
+[2020.06.11 05:15:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:15:53] Message Info: bad message notification received (error_code 16) for msg_id = 6836825355825903996, seq_no = 116
+[2020.06.11 05:16:04] TCP Error: network - Network unreachable
+[2020.06.11 05:16:04] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:16:04] Message Info: bad message notification received (error_code 16) for msg_id = 6836825403072664348, seq_no = 120
+[2020.06.11 05:16:15] TCP Error: network - Network unreachable
+[2020.06.11 05:16:15] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:16:15] Message Info: bad message notification received (error_code 16) for msg_id = 6836825450311609684, seq_no = 124
+[2020.06.11 05:16:26] TCP Error: network - Network unreachable
+[2020.06.11 05:16:26] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:16:26] Message Info: bad message notification received (error_code 16) for msg_id = 6836825497560202896, seq_no = 128
+[2020.06.11 05:16:37] TCP Error: network - Network unreachable
+[2020.06.11 05:16:37] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:16:37] Message Info: bad message notification received (error_code 16) for msg_id = 6836825544808568108, seq_no = 132
+[2020.06.11 05:16:48] TCP Error: network - Network unreachable
+[2020.06.11 05:16:48] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:16:48] Message Info: bad message notification received (error_code 16) for msg_id = 6836825592051464504, seq_no = 136
+[2020.06.11 05:16:59] TCP Error: network - Network unreachable
+[2020.06.11 05:16:59] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:16:59] Message Info: bad message notification received (error_code 16) for msg_id = 6836825639295277236, seq_no = 140
+[2020.06.11 05:17:10] TCP Error: network - Network unreachable
+[2020.06.11 05:17:10] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:17:10] Message Info: bad message notification received (error_code 16) for msg_id = 6836825686535192904, seq_no = 144
+[2020.06.11 05:17:21] TCP Error: network - Network unreachable
+[2020.06.11 05:17:21] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:17:21] Message Info: bad message notification received (error_code 16) for msg_id = 6836825733779321908, seq_no = 148
+[2020.06.11 05:17:32] TCP Error: network - Network unreachable
+[2020.06.11 05:17:32] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:17:32] Message Info: bad message notification received (error_code 16) for msg_id = 6836825781021850776, seq_no = 152
+[2020.06.11 05:17:43] TCP Error: network - Network unreachable
+[2020.06.11 05:17:43] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:17:43] Message Info: bad message notification received (error_code 16) for msg_id = 6836825828266640644, seq_no = 156
+[2020.06.11 05:17:54] TCP Error: network - Network unreachable
+[2020.06.11 05:17:54] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:17:54] Message Info: bad message notification received (error_code 16) for msg_id = 6836825875510865788, seq_no = 160
+[2020.06.11 05:18:05] TCP Error: network - Network unreachable
+[2020.06.11 05:18:05] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:18:05] Message Info: bad message notification received (error_code 16) for msg_id = 6836825922756067884, seq_no = 164
+[2020.06.11 05:18:16] TCP Error: network - Network unreachable
+[2020.06.11 05:18:16] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:18:16] Message Info: bad message notification received (error_code 16) for msg_id = 6836825969997716364, seq_no = 168
+[2020.06.11 05:18:27] TCP Error: network - Network unreachable
+[2020.06.11 05:18:27] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:18:27] Message Info: bad message notification received (error_code 16) for msg_id = 6836826017247163992, seq_no = 172
+[2020.06.11 05:18:38] TCP Error: network - Network unreachable
+[2020.06.11 05:18:38] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:18:38] Message Info: bad message notification received (error_code 16) for msg_id = 6836826064484588740, seq_no = 176
+[2020.06.11 05:18:49] TCP Error: network - Network unreachable
+[2020.06.11 05:18:49] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:18:49] Message Info: bad message notification received (error_code 16) for msg_id = 6836826111790621980, seq_no = 180
+[2020.06.11 05:19:00] TCP Error: network - Network unreachable
+[2020.06.11 05:19:00] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:19:00] Message Info: bad message notification received (error_code 16) for msg_id = 6836826158970825684, seq_no = 184
+[2020.06.11 05:19:11] TCP Error: network - Network unreachable
+[2020.06.11 05:19:11] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:19:11] Message Info: bad message notification received (error_code 16) for msg_id = 6836826206272074824, seq_no = 188
+[2020.06.11 05:19:22] TCP Error: network - Network unreachable
+[2020.06.11 05:19:22] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:19:22] Message Info: bad message notification received (error_code 16) for msg_id = 6836826253457362080, seq_no = 192
+[2020.06.11 05:19:33] TCP Error: network - Network unreachable
+[2020.06.11 05:19:33] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:19:33] Message Info: bad message notification received (error_code 16) for msg_id = 6836826300708081376, seq_no = 196
+[2020.06.11 05:19:44] TCP Error: network - Network unreachable
+[2020.06.11 05:19:44] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:19:44] Message Info: bad message notification received (error_code 16) for msg_id = 6836826347950485716, seq_no = 200
+[2020.06.11 05:19:55] TCP Error: network - Network unreachable
+[2020.06.11 05:19:55] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:19:55] Message Info: bad message notification received (error_code 16) for msg_id = 6836826395193447912, seq_no = 204
+[2020.06.11 05:20:06] TCP Error: network - Network unreachable
+[2020.06.11 05:20:06] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:20:06] Message Info: bad message notification received (error_code 16) for msg_id = 6836826442438753548, seq_no = 208
+[2020.06.11 05:20:17] TCP Error: network - Network unreachable
+[2020.06.11 05:20:17] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:20:17] Message Info: bad message notification received (error_code 16) for msg_id = 6836826489681231608, seq_no = 212
+[2020.06.11 05:20:28] TCP Error: network - Network unreachable
+[2020.06.11 05:20:28] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:20:28] Message Info: bad message notification received (error_code 16) for msg_id = 6836826536926841572, seq_no = 216
+[2020.06.11 05:20:39] TCP Error: network - Network unreachable
+[2020.06.11 05:20:39] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:20:39] Message Info: bad message notification received (error_code 16) for msg_id = 6836826584168771636, seq_no = 220
+[2020.06.11 05:20:50] TCP Error: network - Network unreachable
+[2020.06.11 05:20:50] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:20:50] Message Info: bad message notification received (error_code 16) for msg_id = 6836826631405771452, seq_no = 224
+[2020.06.11 05:21:01] TCP Error: network - Network unreachable
+[2020.06.11 05:21:01] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:21:01] Message Info: bad message notification received (error_code 16) for msg_id = 6836826678667280876, seq_no = 228
+[2020.06.11 05:21:12] TCP Error: network - Network unreachable
+[2020.06.11 05:21:12] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:21:12] Message Info: bad message notification received (error_code 16) for msg_id = 6836826725901854428, seq_no = 232
+[2020.06.11 05:21:23] TCP Error: network - Network unreachable
+[2020.06.11 05:21:23] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:21:23] Message Info: bad message notification received (error_code 16) for msg_id = 6836826773140572452, seq_no = 236
+[2020.06.11 05:21:34] TCP Error: network - Network unreachable
+[2020.06.11 05:21:34] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:21:34] Message Info: bad message notification received (error_code 16) for msg_id = 6836826820376760988, seq_no = 240
+[2020.06.11 05:21:45] TCP Error: network - Network unreachable
+[2020.06.11 05:21:45] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:21:45] Message Info: bad message notification received (error_code 16) for msg_id = 6836826867636377028, seq_no = 244
+[2020.06.11 05:21:56] TCP Error: network - Network unreachable
+[2020.06.11 05:21:56] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:21:56] Message Info: bad message notification received (error_code 16) for msg_id = 6836826914877468956, seq_no = 248
+[2020.06.11 05:22:07] TCP Error: network - Network unreachable
+[2020.06.11 05:22:07] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:22:07] Message Info: bad message notification received (error_code 16) for msg_id = 6836826962120438212, seq_no = 252
+[2020.06.11 05:22:18] TCP Error: network - Network unreachable
+[2020.06.11 05:22:18] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:22:18] Message Info: bad message notification received (error_code 16) for msg_id = 6836827009371947344, seq_no = 256
+[2020.06.11 05:22:29] TCP Error: network - Network unreachable
+[2020.06.11 05:22:29] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:22:29] Message Info: bad message notification received (error_code 16) for msg_id = 6836827056612939484, seq_no = 260
+[2020.06.11 05:22:40] TCP Error: network - Network unreachable
+[2020.06.11 05:22:40] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:22:40] Message Info: bad message notification received (error_code 16) for msg_id = 6836827103857202180, seq_no = 264
+[2020.06.11 05:22:51] TCP Error: network - Network unreachable
+[2020.06.11 05:22:51] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:22:51] Message Info: bad message notification received (error_code 16) for msg_id = 6836827151099842976, seq_no = 268
+[2020.06.11 05:23:02] TCP Error: network - Network unreachable
+[2020.06.11 05:23:02] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:23:02] Message Info: bad message notification received (error_code 16) for msg_id = 6836827198336605496, seq_no = 272
+[2020.06.11 05:23:13] TCP Error: network - Network unreachable
+[2020.06.11 05:23:13] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:23:13] Message Info: bad message notification received (error_code 16) for msg_id = 6836827245591727916, seq_no = 276
+[2020.06.11 05:23:24] TCP Error: network - Network unreachable
+[2020.06.11 05:23:24] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:23:24] Message Info: bad message notification received (error_code 16) for msg_id = 6836827292829166956, seq_no = 280
+[2020.06.11 05:23:35] TCP Error: network - Network unreachable
+[2020.06.11 05:23:35] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:23:35] Message Info: bad message notification received (error_code 16) for msg_id = 6836827340071660444, seq_no = 284
+[2020.06.11 05:23:46] TCP Error: network - Network unreachable
+[2020.06.11 05:23:46] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:23:46] Message Info: bad message notification received (error_code 16) for msg_id = 6836827387321686828, seq_no = 288
+[2020.06.11 05:23:57] TCP Error: network - Network unreachable
+[2020.06.11 05:23:57] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:23:57] Message Info: bad message notification received (error_code 16) for msg_id = 6836827434565645688, seq_no = 292
+[2020.06.11 05:24:08] TCP Error: network - Network unreachable
+[2020.06.11 05:24:08] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:24:08] Message Info: bad message notification received (error_code 16) for msg_id = 6836827481802122104, seq_no = 296
+[2020.06.11 05:24:19] TCP Error: network - Network unreachable
+[2020.06.11 05:24:19] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:24:19] Message Info: bad message notification received (error_code 16) for msg_id = 6836827529046083952, seq_no = 300
+[2020.06.11 05:24:30] TCP Error: network - Network unreachable
+[2020.06.11 05:24:30] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:24:30] Message Info: bad message notification received (error_code 16) for msg_id = 6836827576296984920, seq_no = 304
+[2020.06.11 05:24:41] TCP Error: network - Network unreachable
+[2020.06.11 05:24:41] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:24:41] Message Info: bad message notification received (error_code 16) for msg_id = 6836827623542214072, seq_no = 308
+[2020.06.11 05:24:52] TCP Error: network - Network unreachable
+[2020.06.11 05:24:52] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:24:52] Message Info: bad message notification received (error_code 16) for msg_id = 6836827670794615192, seq_no = 312
+[2020.06.11 05:25:03] TCP Error: network - Network unreachable
+[2020.06.11 05:25:03] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:25:03] Message Info: bad message notification received (error_code 16) for msg_id = 6836827718021296016, seq_no = 316
+[2020.06.11 05:25:14] TCP Error: network - Network unreachable
+[2020.06.11 05:25:14] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:25:14] Message Info: bad message notification received (error_code 16) for msg_id = 6836827765278939716, seq_no = 320
+[2020.06.11 05:25:25] TCP Error: network - Network unreachable
+[2020.06.11 05:25:25] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:25:25] Message Info: bad message notification received (error_code 16) for msg_id = 6836827812533066348, seq_no = 324
+[2020.06.11 05:25:36] TCP Error: network - Network unreachable
+[2020.06.11 05:25:36] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:25:36] Message Info: bad message notification received (error_code 16) for msg_id = 6836827859762607996, seq_no = 328
+[2020.06.11 05:25:47] TCP Error: network - Network unreachable
+[2020.06.11 05:25:47] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:25:47] Message Info: bad message notification received (error_code 16) for msg_id = 6836827907009329864, seq_no = 332
+[2020.06.11 05:25:58] TCP Error: network - Network unreachable
+[2020.06.11 05:25:58] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:25:58] Message Info: bad message notification received (error_code 16) for msg_id = 6836827954250476972, seq_no = 336
+[2020.06.11 05:26:09] TCP Error: network - Network unreachable
+[2020.06.11 05:26:09] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:26:09] Message Info: bad message notification received (error_code 16) for msg_id = 6836828001484061064, seq_no = 340
+[2020.06.11 05:26:20] TCP Error: network - Network unreachable
+[2020.06.11 05:26:20] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:26:20] Message Info: bad message notification received (error_code 16) for msg_id = 6836828048730010848, seq_no = 344
+[2020.06.11 05:26:31] TCP Error: network - Network unreachable
+[2020.06.11 05:26:31] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:26:31] Message Info: bad message notification received (error_code 16) for msg_id = 6836828095983654492, seq_no = 348
+[2020.06.11 05:26:42] TCP Error: network - Network unreachable
+[2020.06.11 05:26:42] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:26:42] Message Info: bad message notification received (error_code 16) for msg_id = 6836828143689515720, seq_no = 352
+[2020.06.11 05:26:43] Message Info: bad message notification received (error_code 16) for msg_id = 6836828143690590144, seq_no = 352
+[2020.06.11 05:26:53] TCP Error: network - Network unreachable
+[2020.06.11 05:26:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 05:27:38] Could not send ping for some seconds, restarting...
+[2020.06.11 05:27:38] TCP Error: network - Network unreachable
+[2020.06.11 05:27:38] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 07:58:05] TCP Error: network - Network unreachable
+[2020.06.11 07:58:05] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 11:44:16] TCP Error: network - Network unreachable
+[2020.06.11 11:44:16] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 11:45:00] Could not send ping for some seconds, restarting...
+[2020.06.11 11:45:00] TCP Error: network - Network unreachable
+[2020.06.11 11:45:00] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 16:36:01] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.11 16:36:03] Audio Info: Closing audio playback device.
+[2020.06.11 16:37:21] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.11 16:37:23] Audio Info: Closing audio playback device.
+[2020.06.11 16:37:26] Audio Info: recreating audio device and reattaching the tracks
+[2020.06.11 16:37:28] Audio Info: Closing audio playback device.
+[2020.06.11 20:51:53] TCP Error: network - Network unreachable
+[2020.06.11 20:51:53] TCP Error: network - Network unreachable
+[2020.06.11 20:51:53] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.11 20:51:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:53] TCP Error: network - Network unreachable
+[2020.06.11 20:51:53] TCP Error: network - Network unreachable
+[2020.06.11 20:51:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:53] TCP Error: network - Network unreachable
+[2020.06.11 20:51:53] TCP Error: network - Network unreachable
+[2020.06.11 20:51:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:53] TCP Error: network - Network unreachable
+[2020.06.11 20:51:53] TCP Error: network - Network unreachable
+[2020.06.11 20:51:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:53] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:54] TCP Error: network - Network unreachable
+[2020.06.11 20:51:54] TCP Error: network - Network unreachable
+[2020.06.11 20:51:54] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:54] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:56] TCP Error: network - Network unreachable
+[2020.06.11 20:51:56] TCP Error: network - Network unreachable
+[2020.06.11 20:51:56] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:51:56] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:52:00] TCP Error: network - Network unreachable
+[2020.06.11 20:52:00] TCP Error: network - Network unreachable
+[2020.06.11 20:52:00] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:52:00] HTTP Error: network error 99 - Network unreachable
+[2020.06.11 20:52:08] TCP Error: network - Network unreachable
+[2020.06.11 20:52:08] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 05:11:18] TCP Error: network - Network unreachable
+[2020.06.12 05:11:18] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 05:11:19] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2020.06.12 05:11:19] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2020.06.12 05:11:19] TCP Error: network - Network unreachable
+[2020.06.12 05:11:19] TCP Error: network - Network unreachable
+[2020.06.12 05:11:19] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 05:11:19] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 08:15:30] TCP Error: network - Network unreachable
+[2020.06.12 08:15:30] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 11:45:49] TCP Error: network - Network unreachable
+[2020.06.12 11:45:49] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 18:07:34] TCP Error: network - Network unreachable
+[2020.06.12 18:07:34] TCP Error: network - Network unreachable
+[2020.06.12 18:07:34] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:35] TCP Error: network - Network unreachable
+[2020.06.12 18:07:35] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:35] TCP Error: network - Network unreachable
+[2020.06.12 18:07:35] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:35] TCP Error: network - Network unreachable
+[2020.06.12 18:07:35] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:35] TCP Error: network - Network unreachable
+[2020.06.12 18:07:35] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:35] TCP Error: network - Network unreachable
+[2020.06.12 18:07:35] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:35] TCP Error: network - Network unreachable
+[2020.06.12 18:07:35] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:35] TCP Error: network - Network unreachable
+[2020.06.12 18:07:35] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:35] TCP Error: network - Network unreachable
+[2020.06.12 18:07:35] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:36] TCP Error: network - Network unreachable
+[2020.06.12 18:07:36] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:36] TCP Error: network - Network unreachable
+[2020.06.12 18:07:36] HTTP Error: network error 99 - Network access is disabled.
+[2020.06.12 18:07:38] TCP Error: network - Network unreachable
+[2020.06.12 18:07:38] TCP Error: network - Network unreachable
+[2020.06.12 18:07:38] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 18:07:38] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 18:07:42] TCP Error: network - Network unreachable
+[2020.06.12 18:07:42] HTTP Error: network error 99 - Network unreachable
+[2020.06.12 18:08:27] Could not send ping for some seconds, restarting...
+[2020.06.12 18:08:27] TCP Error: network - Network unreachable
+[2020.06.12 18:08:27] HTTP Error: network error 99 - Network unreachable
+[2020.06.13 05:13:50] TCP Error: network - Network unreachable
+[2020.06.13 05:13:50] HTTP Error: network error 99 - Network unreachable
+[2020.06.13 05:13:50] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2020.06.13 05:13:50] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2020.06.13 05:13:50] TCP Error: network - Network unreachable
+[2020.06.13 05:13:50] TCP Error: network - Network unreachable
+[2020.06.13 05:13:50] HTTP Error: network error 99 - Network unreachable
+[2020.06.13 05:13:50] HTTP Error: network error 99 - Network unreachable
+[2020.06.13 05:13:51] Message Info: bad message notification received (error_code 16) for msg_id = 6837580843261559004, seq_no = 4
+[2020.06.13 05:14:01] TCP Error: network - Network unreachable
+[2020.06.13 05:14:01] HTTP Error: network error 99 - Network unreachable
+[2020.06.13 05:14:46] Could not send ping for some seconds, restarting...
+[2020.06.13 05:14:46] TCP Error: network - Network unreachable
+[2020.06.13 05:14:46] HTTP Error: network error 99 - Network unreachable
