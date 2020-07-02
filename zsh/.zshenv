@@ -13,7 +13,6 @@ if [[ ( "$SHLVL" -eq 1 && ! -o LOGIN ) && -s "${ZDOTDIR:-$HOME}/.zprofile" ]]; t
 fi
 
 # Read any secret env variables
-source "${ZDOTDIR:-$HOME}/.zsecrets"
 
 export PATH="$HOME/bin:$HOME/.cargo/bin:$PATH:$HOME/.local/bin"
 export EDITOR="nvim"
