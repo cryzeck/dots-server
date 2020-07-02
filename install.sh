@@ -14,7 +14,7 @@ while getopts ":a:p:h" o; do
 done
 
 # Defaults
-[ -z ${progs_file+x} ] && progs_file="https://raw.githubusercontent.com/jastrup/dots-server/master/progs.csv"
+[ -z ${progs_file+x} ] && progs_file="https://raw.githubusercontent.com/cryzeck/dots-server/master/progs.csv"
 [ -z ${aur_helper+x} ] && aur_helper="yay"
 
 # Functions
