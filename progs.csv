@@ -9,7 +9,8 @@ P,bzip2,data compression
 P,man,manual pages
 P,tldr,shorter manual pages
 P,wireguard-tools,wireguard utils
-P,wireguard-arch,wireguard kernel module
+P,wireguard-lts,wireguard kernel module
+P,bird
 P,fzf,fuzzy finder tool
 P,gnupg,open implementation of PGP
 P,neovim,best text editor 
